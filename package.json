@@ -1,7 +1,8 @@
 {
   "name": "aws-folder-upload",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "description": "upload folder to aws s3",
+  "repository": "https://github.com/xitrumuit1991/aws-folder-upload",
   "main": "index.js",
   "scripts": {
     "test": "npm test"
