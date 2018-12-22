@@ -1,0 +1,21 @@
+{
+  "name": "aws-folder-upload",
+  "version": "1.0.13",
+  "description": "upload folder to aws s3",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "aws-folder-upload", "aws","aws-s3"
+  ],
+  "author": "nguyentvk@uiza.io",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.381.0",
+    "fs": "0.0.1-security",
+    "lodash": "^4.17.11",
+    "mime": "^2.4.0",
+    "path": "^0.12.7"
+  }
+}
